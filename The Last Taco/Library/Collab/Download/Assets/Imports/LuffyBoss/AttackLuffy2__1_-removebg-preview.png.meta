@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: cc6a63c0fbfe193c1899480faae97750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2275306142607378367
+    second: AttackLuffy2__1_-removebg-preview_0
+  - first:
+      213: 6066212542171076072
+    second: AttackLuffy2__1_-removebg-preview_1
+  - first:
+      213: 2283852724203994385
+    second: AttackLuffy2__1_-removebg-preview_2
+  - first:
+      213: 530696601663339101
+    second: AttackLuffy2__1_-removebg-preview_3
+  - first:
+      213: 5900140119911742959
+    second: AttackLuffy2__1_-removebg-preview_4
+  - first:
+      213: 4855830562917947684
+    second: AttackLuffy2__1_-removebg-preview_5
+  - first:
+      213: 3770563508188917694
+    second: AttackLuffy2__1_-removebg-preview_6
+  - first:
+      213: -1258567607107964637
+    second: AttackLuffy2__1_-removebg-preview_7
+  - first:
+      213: 512602041176230557
+    second: AttackLuffy2__1_-removebg-preview_8
+  - first:
+      213: -4967110456155193289
+    second: AttackLuffy2__1_-removebg-preview_9
+  - first:
+      213: 3858473221757953946
+    second: AttackLuffy2__1_-removebg-preview_10
+  - first:
+      213: -2129668573031246066
+    second: AttackLuffy2__1_-removebg-preview_11
+  - first:
+      213: -8454633086117031570
+    second: AttackLuffy2__1_-removebg-preview_12
+  - first:
+      213: 7671025228913781033
+    second: AttackLuffy2__1_-removebg-preview_13
+  - first:
+      213: -5107610668201351090
+    second: AttackLuffy2__1_-removebg-preview_14
+  - first:
+      213: 6949961412302476653
+    second: AttackLuffy2__1_-removebg-preview_15
+  - first:
+      213: 7217540624419993225
+    second: AttackLuffy2__1_-removebg-preview_16
+  - first:
+      213: -7077108786030664191
+    second: AttackLuffy2__1_-removebg-preview_17
+  - first:
+      213: 7711682277769401395
+    second: AttackLuffy2__1_-removebg-preview_18
+  - first:
+      213: 6042490805969043039
+    second: AttackLuffy2__1_-removebg-preview_19
+  - first:
+      213: -1636791614491287136
+    second: AttackLuffy2__1_-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1487f9e4e1d7c60e0800000000000000
+      internalID: -2275306142607378367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5502cba248f2450800000000000000
+      internalID: 6066212542171076072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbc79c3ffd1bf10800000000000000
+      internalID: 2283852724203994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a76a95fb96d5700800000000000000
+      internalID: 530696601663339101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedbe54cd2281e150800000000000000
+      internalID: 5900140119911742959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 88
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42995307b20636340800000000000000
+      internalID: 4855830562917947684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 50
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa6ac888bb35430800000000000000
+      internalID: 3770563508188917694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 49
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213484fd6ba88ee0800000000000000
+      internalID: -1258567607107964637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 50
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a037f27d02d1700800000000000000
+      internalID: 512602041176230557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730cdb46b57411bb0800000000000000
+      internalID: -4967110456155193289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 51
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a976d3eb3fc0c8530800000000000000
+      internalID: 3858473221757953946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 61
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d82f57b5e172e0800000000000000
+      internalID: -2129668573031246066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 50
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61dab3b00c1baa80800000000000000
+      internalID: -8454633086117031570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92927788dc4f47a60800000000000000
+      internalID: 7671025228913781033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ecd6982f1e19b0800000000000000
+      internalID: -5107610668201351090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6516fef419337060800000000000000
+      internalID: 6949961412302476653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986318e25fad92460800000000000000
+      internalID: 7217540624419993225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106a8d32e0f09cd90800000000000000
+      internalID: -7077108786030664191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334de136c26650b60800000000000000
+      internalID: 7711682277769401395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3950af5d3bd350800000000000000
+      internalID: 6042490805969043039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackLuffy2__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a8eed2b2f849e0800000000000000
+      internalID: -1636791614491287136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 3455cd7b26811aef3b5fe1194aa02dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5552472230025616235
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_0
+  - first:
+      213: 8091727901410843550
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_1
+  - first:
+      213: 2337610119867226010
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_2
+  - first:
+      213: 7908650548308727103
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_3
+  - first:
+      213: 6913327081701442666
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_4
+  - first:
+      213: 366949584553609138
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_5
+  - first:
+      213: -3508990851650136139
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_6
+  - first:
+      213: 8069390493179798051
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_7
+  - first:
+      213: -4343392944866536967
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_8
+  - first:
+      213: -483954991797568410
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_9
+  - first:
+      213: 7424651105904772155
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_10
+  - first:
+      213: -862757805199646108
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_11
+  - first:
+      213: -5086430929912378444
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_12
+  - first:
+      213: -1808397486363865065
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_13
+  - first:
+      213: 2320474899018576754
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_14
+  - first:
+      213: 783798684084886157
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_15
+  - first:
+      213: 5570693039176977521
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_16
+  - first:
+      213: -7883518081442220887
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_17
+  - first:
+      213: 7750873055174930791
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_18
+  - first:
+      213: 6539893985309732739
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_19
+  - first:
+      213: -7805891898255017904
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_20
+  - first:
+      213: 8234999391703220192
+    second: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942a10dce7a1f2b0800000000000000
+      internalID: -5552472230025616235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd5be87a79b4070800000000000000
+      internalID: 8091727901410843550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975b02d40cd07020800000000000000
+      internalID: 2337610119867226010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 82
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d3a895cb21cd60800000000000000
+      internalID: 7908650548308727103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6407e83a5211ff50800000000000000
+      internalID: 6913327081701442666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 82
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b78bc5f3baa71500800000000000000
+      internalID: 366949584553609138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 82
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75c4f696f8d4fc0800000000000000
+      internalID: -3508990851650136139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 81
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32265eb66eb3cff60800000000000000
+      internalID: 8069390493179798051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1da41012b29b3c0800000000000000
+      internalID: -4343392944866536967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf0a2cf75a849f0800000000000000
+      internalID: -483954991797568410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 35
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344aa4e7d8a90760800000000000000
+      internalID: 7424651105904772155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46221e5e85ed604f0800000000000000
+      internalID: -862757805199646108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4300b40e5969b0800000000000000
+      internalID: -5086430929912378444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 35
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109294411847e6e0800000000000000
+      internalID: -1808397486363865065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 35
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273763250abf33020800000000000000
+      internalID: 2320474899018576754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 35
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a5c4c10cc90ea00800000000000000
+      internalID: 783798684084886157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 33
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c82e8edc31f4d40800000000000000
+      internalID: 5570693039176977521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47447d21e189290800000000000000
+      internalID: -7883518081442220887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76139d05af1a09b60800000000000000
+      internalID: 7750873055174930791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fa9170eee52ca50800000000000000
+      internalID: 6539893985309732739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058f8690da6eba390800000000000000
+      internalID: -7805891898255017904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Jump_Super_Stars_-_Luffy-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 149
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef370cd058984270800000000000000
+      internalID: 8234999391703220192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

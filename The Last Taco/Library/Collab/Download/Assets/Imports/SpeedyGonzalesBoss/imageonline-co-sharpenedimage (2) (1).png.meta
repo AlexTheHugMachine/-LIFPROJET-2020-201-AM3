@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 290ef8786287ae9dfaab0ff6ae1e7e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5167490806898706985
+    second: imageonline-co-sharpenedimage (2) (1)_0
+  - first:
+      213: 2931642848522048077
+    second: imageonline-co-sharpenedimage (2) (1)_1
+  - first:
+      213: 4768289876245067995
+    second: imageonline-co-sharpenedimage (2) (1)_2
+  - first:
+      213: -8809868507480894900
+    second: imageonline-co-sharpenedimage (2) (1)_3
+  - first:
+      213: -4769004595838639048
+    second: imageonline-co-sharpenedimage (2) (1)_4
+  - first:
+      213: -7147448322841249056
+    second: imageonline-co-sharpenedimage (2) (1)_5
+  - first:
+      213: 6088663812743056988
+    second: imageonline-co-sharpenedimage (2) (1)_6
+  - first:
+      213: 7971063084291526864
+    second: imageonline-co-sharpenedimage (2) (1)_7
+  - first:
+      213: 5393169234663851063
+    second: imageonline-co-sharpenedimage (2) (1)_8
+  - first:
+      213: -7783368229302054855
+    second: imageonline-co-sharpenedimage (2) (1)_9
+  - first:
+      213: -2560816327877796473
+    second: imageonline-co-sharpenedimage (2) (1)_10
+  - first:
+      213: -5162160869208697560
+    second: imageonline-co-sharpenedimage (2) (1)_11
+  - first:
+      213: 5000379089107279387
+    second: imageonline-co-sharpenedimage (2) (1)_12
+  - first:
+      213: -8886820940267758176
+    second: imageonline-co-sharpenedimage (2) (1)_13
+  - first:
+      213: 1175320929678853378
+    second: imageonline-co-sharpenedimage (2) (1)_14
+  - first:
+      213: 5786569048402359300
+    second: imageonline-co-sharpenedimage (2) (1)_15
+  - first:
+      213: 8183556933996722233
+    second: imageonline-co-sharpenedimage (2) (1)_16
+  - first:
+      213: -6297118129246526481
+    second: imageonline-co-sharpenedimage (2) (1)_17
+  - first:
+      213: -6295976890197496561
+    second: imageonline-co-sharpenedimage (2) (1)_18
+  - first:
+      213: 2947750925681521774
+    second: imageonline-co-sharpenedimage (2) (1)_19
+  - first:
+      213: 7331077706471268188
+    second: imageonline-co-sharpenedimage (2) (1)_20
+  - first:
+      213: 2720221510895748711
+    second: imageonline-co-sharpenedimage (2) (1)_21
+  - first:
+      213: -828072952991985977
+    second: imageonline-co-sharpenedimage (2) (1)_22
+  - first:
+      213: -2365984969710428383
+    second: imageonline-co-sharpenedimage (2) (1)_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b4ba5d726948b0800000000000000
+      internalID: -5167490806898706985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 59
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42987263a94fa820800000000000000
+      internalID: 2931642848522048077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8bda3016e5c2240800000000000000
+      internalID: 4768289876245067995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 59
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4253b5e44f0db580800000000000000
+      internalID: -8809868507480894900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 59
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83425dc569711ddb0800000000000000
+      internalID: -4769004595838639048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 59
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf5928e992fcc90800000000000000
+      internalID: -7147448322841249056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 59
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e43538a774f7450800000000000000
+      internalID: 6088663812743056988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 59
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01d6584a7ee9e60800000000000000
+      internalID: 7971063084291526864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 59
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73444bd38d268da40800000000000000
+      internalID: 5393169234663851063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 59
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d36065dbebf390800000000000000
+      internalID: -7783368229302054855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 59
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dd2d91e17267cd0800000000000000
+      internalID: -2560816327877796473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 59
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d46d2a025c58b0800000000000000
+      internalID: -5162160869208697560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed784d94ae46540800000000000000
+      internalID: 5000379089107279387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad56d0707baba480800000000000000
+      internalID: -8886820940267758176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205079e88249f4010800000000000000
+      internalID: 1175320929678853378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404fa4614e50e4050800000000000000
+      internalID: 5786569048402359300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383f025ca5d19170800000000000000
+      internalID: 8183556933996722233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a69dcc642c98a0800000000000000
+      internalID: -6297118129246526481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da5b9306230a8a0800000000000000
+      internalID: -6295976890197496561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64739b59d388e820800000000000000
+      internalID: 2947750925681521774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f510315583db560800000000000000
+      internalID: 7331077706471268188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76641534d0b20c520800000000000000
+      internalID: 2720221510895748711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cecdcc59081284f0800000000000000
+      internalID: -828072952991985977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-sharpenedimage (2) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1f70a4355a2fd0800000000000000
+      internalID: -2365984969710428383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: bf6e000d7bd249f228b8b54cc4e950f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5924755245657522997
+    second: teeworlds_flag_by_android272_d96gjfs-pre_0
+  - first:
+      213: -4337887969545487810
+    second: teeworlds_flag_by_android272_d96gjfs-pre_1
+  - first:
+      213: -6755177266277354396
+    second: teeworlds_flag_by_android272_d96gjfs-pre_2
+  - first:
+      213: -134353962183502304
+    second: teeworlds_flag_by_android272_d96gjfs-pre_3
+  - first:
+      213: 2140021775401456224
+    second: teeworlds_flag_by_android272_d96gjfs-pre_4
+  - first:
+      213: -1383587368400797706
+    second: teeworlds_flag_by_android272_d96gjfs-pre_5
+  - first:
+      213: 1967183073213634816
+    second: teeworlds_flag_by_android272_d96gjfs-pre_6
+  - first:
+      213: -8904162878374759441
+    second: teeworlds_flag_by_android272_d96gjfs-pre_7
+  - first:
+      213: -3311774488953252496
+    second: teeworlds_flag_by_android272_d96gjfs-pre_8
+  - first:
+      213: -7752349706172611957
+    second: teeworlds_flag_by_android272_d96gjfs-pre_9
+  - first:
+      213: -4073780676481345044
+    second: teeworlds_flag_by_android272_d96gjfs-pre_10
+  - first:
+      213: 7256014057575710235
+    second: teeworlds_flag_by_android272_d96gjfs-pre_11
+  - first:
+      213: 8412183964777038710
+    second: teeworlds_flag_by_android272_d96gjfs-pre_12
+  - first:
+      213: -8386278409431727453
+    second: teeworlds_flag_by_android272_d96gjfs-pre_13
+  - first:
+      213: 7166746959872417489
+    second: teeworlds_flag_by_android272_d96gjfs-pre_14
+  - first:
+      213: -4675751503469234570
+    second: teeworlds_flag_by_android272_d96gjfs-pre_15
+  - first:
+      213: -5145615533432444185
+    second: teeworlds_flag_by_android272_d96gjfs-pre_16
+  - first:
+      213: 2813501859074436294
+    second: teeworlds_flag_by_android272_d96gjfs-pre_17
+  - first:
+      213: 5322418212197152714
+    second: teeworlds_flag_by_android272_d96gjfs-pre_18
+  - first:
+      213: 626589864097774921
+    second: teeworlds_flag_by_android272_d96gjfs-pre_19
+  - first:
+      213: -2713389905345327868
+    second: teeworlds_flag_by_android272_d96gjfs-pre_20
+  - first:
+      213: 1677078106989577101
+    second: teeworlds_flag_by_android272_d96gjfs-pre_21
+  - first:
+      213: -4163255903681716543
+    second: teeworlds_flag_by_android272_d96gjfs-pre_22
+  - first:
+      213: 6941375347657125280
+    second: teeworlds_flag_by_android272_d96gjfs-pre_23
+  - first:
+      213: -266637667821240501
+    second: teeworlds_flag_by_android272_d96gjfs-pre_24
+  - first:
+      213: -5010689295167250468
+    second: teeworlds_flag_by_android272_d96gjfs-pre_25
+  - first:
+      213: 4523230658442239485
+    second: teeworlds_flag_by_android272_d96gjfs-pre_26
+  - first:
+      213: 3702885262597334776
+    second: teeworlds_flag_by_android272_d96gjfs-pre_27
+  - first:
+      213: -4421556997190939828
+    second: teeworlds_flag_by_android272_d96gjfs-pre_28
+  - first:
+      213: 8659478380933776104
+    second: teeworlds_flag_by_android272_d96gjfs-pre_29
+  - first:
+      213: 1274776803282378566
+    second: teeworlds_flag_by_android272_d96gjfs-pre_30
+  - first:
+      213: 3830520591748346880
+    second: teeworlds_flag_by_android272_d96gjfs-pre_31
+  - first:
+      213: 7030075602711635434
+    second: teeworlds_flag_by_android272_d96gjfs-pre_32
+  - first:
+      213: 7364670690820172466
+    second: teeworlds_flag_by_android272_d96gjfs-pre_33
+  - first:
+      213: -4177176976535431821
+    second: teeworlds_flag_by_android272_d96gjfs-pre_34
+  - first:
+      213: 248899608551286209
+    second: teeworlds_flag_by_android272_d96gjfs-pre_35
+  - first:
+      213: 7202958085562178098
+    second: teeworlds_flag_by_android272_d96gjfs-pre_36
+  - first:
+      213: -8300129752915819120
+    second: teeworlds_flag_by_android272_d96gjfs-pre_37
+  - first:
+      213: -1069955168658667107
+    second: teeworlds_flag_by_android272_d96gjfs-pre_38
+  - first:
+      213: 6199511079456040190
+    second: teeworlds_flag_by_android272_d96gjfs-pre_39
+  - first:
+      213: -8587720356004080979
+    second: teeworlds_flag_by_android272_d96gjfs-pre_40
+  - first:
+      213: -779216943036280024
+    second: teeworlds_flag_by_android272_d96gjfs-pre_41
+  - first:
+      213: 1591159971912331082
+    second: teeworlds_flag_by_android272_d96gjfs-pre_42
+  - first:
+      213: 6221884145545631100
+    second: teeworlds_flag_by_android272_d96gjfs-pre_43
+  - first:
+      213: -2866679203185113002
+    second: teeworlds_flag_by_android272_d96gjfs-pre_44
+  - first:
+      213: -2690839166475409595
+    second: teeworlds_flag_by_android272_d96gjfs-pre_45
+  - first:
+      213: -2100892220064622009
+    second: teeworlds_flag_by_android272_d96gjfs-pre_46
+  - first:
+      213: 4086789463257429027
+    second: teeworlds_flag_by_android272_d96gjfs-pre_47
+  - first:
+      213: -5979688075679739554
+    second: teeworlds_flag_by_android272_d96gjfs-pre_48
+  - first:
+      213: -8417297214718360590
+    second: teeworlds_flag_by_android272_d96gjfs-pre_49
+  - first:
+      213: 7686437850939403240
+    second: teeworlds_flag_by_android272_d96gjfs-pre_50
+  - first:
+      213: 8888820948614310137
+    second: teeworlds_flag_by_android272_d96gjfs-pre_51
+  - first:
+      213: -7043743417175936045
+    second: teeworlds_flag_by_android272_d96gjfs-pre_52
+  - first:
+      213: -8403575548640373486
+    second: teeworlds_flag_by_android272_d96gjfs-pre_53
+  - first:
+      213: -3811217628654880771
+    second: teeworlds_flag_by_android272_d96gjfs-pre_54
+  - first:
+      213: -4144179371937960038
+    second: teeworlds_flag_by_android272_d96gjfs-pre_55
+  - first:
+      213: 3623054117563734468
+    second: teeworlds_flag_by_android272_d96gjfs-pre_56
+  - first:
+      213: 8649366785774130246
+    second: teeworlds_flag_by_android272_d96gjfs-pre_57
+  - first:
+      213: 313550151894417796
+    second: teeworlds_flag_by_android272_d96gjfs-pre_58
+  - first:
+      213: 517488181151013144
+    second: teeworlds_flag_by_android272_d96gjfs-pre_59
+  - first:
+      213: -8942436855149775519
+    second: teeworlds_flag_by_android272_d96gjfs-pre_60
+  - first:
+      213: 2530228719307743780
+    second: teeworlds_flag_by_android272_d96gjfs-pre_61
+  - first:
+      213: -6436961982159815127
+    second: teeworlds_flag_by_android272_d96gjfs-pre_62
+  - first:
+      213: -7676301699103889283
+    second: teeworlds_flag_by_android272_d96gjfs-pre_63
+  - first:
+      213: 6361151773866974652
+    second: teeworlds_flag_by_android272_d96gjfs-pre_64
+  - first:
+      213: 6667617365219517739
+    second: teeworlds_flag_by_android272_d96gjfs-pre_65
+  - first:
+      213: -4670365164470589196
+    second: teeworlds_flag_by_android272_d96gjfs-pre_66
+  - first:
+      213: -8622072907826122366
+    second: teeworlds_flag_by_android272_d96gjfs-pre_67
+  - first:
+      213: -1263101420834642820
+    second: teeworlds_flag_by_android272_d96gjfs-pre_68
+  - first:
+      213: 2326564728785719047
+    second: teeworlds_flag_by_android272_d96gjfs-pre_69
+  - first:
+      213: 1501714499350026330
+    second: teeworlds_flag_by_android272_d96gjfs-pre_70
+  - first:
+      213: -4513954624365970303
+    second: teeworlds_flag_by_android272_d96gjfs-pre_71
+  - first:
+      213: -190852382633506904
+    second: teeworlds_flag_by_android272_d96gjfs-pre_72
+  - first:
+      213: 2606458988837166369
+    second: teeworlds_flag_by_android272_d96gjfs-pre_73
+  - first:
+      213: -885166213164794644
+    second: teeworlds_flag_by_android272_d96gjfs-pre_74
+  - first:
+      213: 2499831558140120558
+    second: teeworlds_flag_by_android272_d96gjfs-pre_75
+  - first:
+      213: -4288822343307953472
+    second: teeworlds_flag_by_android272_d96gjfs-pre_76
+  - first:
+      213: 337876568929328772
+    second: teeworlds_flag_by_android272_d96gjfs-pre_77
+  - first:
+      213: -7539551494668573232
+    second: teeworlds_flag_by_android272_d96gjfs-pre_78
+  - first:
+      213: 366619744861916647
+    second: teeworlds_flag_by_android272_d96gjfs-pre_79
+  - first:
+      213: -4924281102609234019
+    second: teeworlds_flag_by_android272_d96gjfs-pre_80
+  - first:
+      213: 558510483167812435
+    second: teeworlds_flag_by_android272_d96gjfs-pre_81
+  - first:
+      213: -2171655166720368637
+    second: teeworlds_flag_by_android272_d96gjfs-pre_82
+  - first:
+      213: -858285420103105642
+    second: teeworlds_flag_by_android272_d96gjfs-pre_83
+  - first:
+      213: 9064530941203335438
+    second: teeworlds_flag_by_android272_d96gjfs-pre_84
+  - first:
+      213: -890606579074014916
+    second: teeworlds_flag_by_android272_d96gjfs-pre_85
+  - first:
+      213: -1601566422640946405
+    second: teeworlds_flag_by_android272_d96gjfs-pre_86
+  - first:
+      213: 1778904172191711857
+    second: teeworlds_flag_by_android272_d96gjfs-pre_87
+  - first:
+      213: -8507445074726455248
+    second: teeworlds_flag_by_android272_d96gjfs-pre_88
+  - first:
+      213: -7669944900744342549
+    second: teeworlds_flag_by_android272_d96gjfs-pre_89
+  - first:
+      213: 8974577382147844044
+    second: teeworlds_flag_by_android272_d96gjfs-pre_90
+  - first:
+      213: 5409089870593958309
+    second: teeworlds_flag_by_android272_d96gjfs-pre_91
+  - first:
+      213: 7054637658852196319
+    second: teeworlds_flag_by_android272_d96gjfs-pre_92
+  - first:
+      213: -8775103597371766558
+    second: teeworlds_flag_by_android272_d96gjfs-pre_93
+  - first:
+      213: 5180665651409543858
+    second: teeworlds_flag_by_android272_d96gjfs-pre_94
+  - first:
+      213: 6117314816397284977
+    second: teeworlds_flag_by_android272_d96gjfs-pre_95
+  - first:
+      213: 5902372799981219541
+    second: teeworlds_flag_by_android272_d96gjfs-pre_96
+  - first:
+      213: 2071438855432156716
+    second: teeworlds_flag_by_android272_d96gjfs-pre_97
+  - first:
+      213: -3194733535773483919
+    second: teeworlds_flag_by_android272_d96gjfs-pre_98
+  - first:
+      213: 3614133437597627622
+    second: teeworlds_flag_by_android272_d96gjfs-pre_99
+  - first:
+      213: -1866805492448952727
+    second: teeworlds_flag_by_android272_d96gjfs-pre_100
+  - first:
+      213: -7084457702905639231
+    second: teeworlds_flag_by_android272_d96gjfs-pre_101
+  - first:
+      213: 8862091218694200865
+    second: teeworlds_flag_by_android272_d96gjfs-pre_102
+  - first:
+      213: -5370138685527440174
+    second: teeworlds_flag_by_android272_d96gjfs-pre_103
+  - first:
+      213: -5807045546375174809
+    second: teeworlds_flag_by_android272_d96gjfs-pre_104
+  - first:
+      213: 3979923447520822676
+    second: teeworlds_flag_by_android272_d96gjfs-pre_105
+  - first:
+      213: 9089185991460450460
+    second: teeworlds_flag_by_android272_d96gjfs-pre_106
+  - first:
+      213: 6969103778814299499
+    second: teeworlds_flag_by_android272_d96gjfs-pre_107
+  - first:
+      213: 1287658950445238
+    second: teeworlds_flag_by_android272_d96gjfs-pre_108
+  - first:
+      213: -2354174258701027564
+    second: teeworlds_flag_by_android272_d96gjfs-pre_109
+  - first:
+      213: 8627930430421705764
+    second: teeworlds_flag_by_android272_d96gjfs-pre_110
+  - first:
+      213: -5657810400167020126
+    second: teeworlds_flag_by_android272_d96gjfs-pre_111
+  - first:
+      213: 1016234529387833251
+    second: teeworlds_flag_by_android272_d96gjfs-pre_112
+  - first:
+      213: 9061930469349697174
+    second: teeworlds_flag_by_android272_d96gjfs-pre_113
+  - first:
+      213: -2675606048752526943
+    second: teeworlds_flag_by_android272_d96gjfs-pre_114
+  - first:
+      213: -3796285903718177749
+    second: teeworlds_flag_by_android272_d96gjfs-pre_115
+  - first:
+      213: 8041243298084702170
+    second: teeworlds_flag_by_android272_d96gjfs-pre_116
+  - first:
+      213: 8053918612058894342
+    second: teeworlds_flag_by_android272_d96gjfs-pre_117
+  - first:
+      213: -3958477462798003885
+    second: teeworlds_flag_by_android272_d96gjfs-pre_118
+  - first:
+      213: -8792676215385002243
+    second: teeworlds_flag_by_android272_d96gjfs-pre_119
+  - first:
+      213: 6109972878182057459
+    second: teeworlds_flag_by_android272_d96gjfs-pre_120
+  - first:
+      213: 3262874490188734418
+    second: teeworlds_flag_by_android272_d96gjfs-pre_121
+  - first:
+      213: -3633640012889251349
+    second: teeworlds_flag_by_android272_d96gjfs-pre_122
+  - first:
+      213: -2240270429108956118
+    second: teeworlds_flag_by_android272_d96gjfs-pre_123
+  - first:
+      213: -3971156349647940152
+    second: teeworlds_flag_by_android272_d96gjfs-pre_124
+  - first:
+      213: -6509811073647717625
+    second: teeworlds_flag_by_android272_d96gjfs-pre_125
+  - first:
+      213: -2259714377178057759
+    second: teeworlds_flag_by_android272_d96gjfs-pre_126
+  - first:
+      213: 173661156683603626
+    second: teeworlds_flag_by_android272_d96gjfs-pre_127
+  - first:
+      213: -4795381663422910392
+    second: teeworlds_flag_by_android272_d96gjfs-pre_128
+  - first:
+      213: 3838290242437128475
+    second: teeworlds_flag_by_android272_d96gjfs-pre_129
+  - first:
+      213: -8940138749940838401
+    second: teeworlds_flag_by_android272_d96gjfs-pre_130
+  - first:
+      213: 7598655926924158218
+    second: teeworlds_flag_by_android272_d96gjfs-pre_131
+  - first:
+      213: 3087086244174790391
+    second: teeworlds_flag_by_android272_d96gjfs-pre_132
+  - first:
+      213: -7261986531889400426
+    second: teeworlds_flag_by_android272_d96gjfs-pre_133
+  - first:
+      213: 2409734579105905081
+    second: teeworlds_flag_by_android272_d96gjfs-pre_134
+  - first:
+      213: -4897822118700528535
+    second: teeworlds_flag_by_android272_d96gjfs-pre_135
+  - first:
+      213: 4949152327723957479
+    second: teeworlds_flag_by_android272_d96gjfs-pre_136
+  - first:
+      213: -5959922987768287505
+    second: teeworlds_flag_by_android272_d96gjfs-pre_137
+  - first:
+      213: -526183778146042418
+    second: teeworlds_flag_by_android272_d96gjfs-pre_138
+  - first:
+      213: 6683459611917591353
+    second: teeworlds_flag_by_android272_d96gjfs-pre_139
+  - first:
+      213: 5128845640742459845
+    second: teeworlds_flag_by_android272_d96gjfs-pre_140
+  - first:
+      213: -784110588370329232
+    second: teeworlds_flag_by_android272_d96gjfs-pre_141
+  - first:
+      213: -380862675137939920
+    second: teeworlds_flag_by_android272_d96gjfs-pre_142
+  - first:
+      213: 7665557866527949747
+    second: teeworlds_flag_by_android272_d96gjfs-pre_143
+  - first:
+      213: -5426862415580856908
+    second: teeworlds_flag_by_android272_d96gjfs-pre_144
+  - first:
+      213: 8374879722974230387
+    second: teeworlds_flag_by_android272_d96gjfs-pre_145
+  - first:
+      213: 7633310643945630532
+    second: teeworlds_flag_by_android272_d96gjfs-pre_146
+  - first:
+      213: 6424771514875492195
+    second: teeworlds_flag_by_android272_d96gjfs-pre_147
+  - first:
+      213: 2067003929814499021
+    second: teeworlds_flag_by_android272_d96gjfs-pre_148
+  - first:
+      213: -580563608700477513
+    second: teeworlds_flag_by_android272_d96gjfs-pre_149
+  - first:
+      213: 2541338995352494623
+    second: teeworlds_flag_by_android272_d96gjfs-pre_150
+  - first:
+      213: 5439009738750092582
+    second: teeworlds_flag_by_android272_d96gjfs-pre_151
+  - first:
+      213: 476305040576307830
+    second: teeworlds_flag_by_android272_d96gjfs-pre_152
+  - first:
+      213: 3958217223425949629
+    second: teeworlds_flag_by_android272_d96gjfs-pre_153
+  - first:
+      213: -2722495140998940853
+    second: teeworlds_flag_by_android272_d96gjfs-pre_154
+  - first:
+      213: -395458707508069014
+    second: teeworlds_flag_by_android272_d96gjfs-pre_155
+  - first:
+      213: 5905602454941408098
+    second: teeworlds_flag_by_android272_d96gjfs-pre_156
+  - first:
+      213: 7110648207906110111
+    second: teeworlds_flag_by_android272_d96gjfs-pre_157
+  - first:
+      213: 8918082915021303974
+    second: teeworlds_flag_by_android272_d96gjfs-pre_158
+  - first:
+      213: 1595870236291419934
+    second: teeworlds_flag_by_android272_d96gjfs-pre_159
+  - first:
+      213: 7623540622801730274
+    second: teeworlds_flag_by_android272_d96gjfs-pre_160
+  - first:
+      213: 3991918643945553860
+    second: teeworlds_flag_by_android272_d96gjfs-pre_161
+  - first:
+      213: -2968788003320084577
+    second: teeworlds_flag_by_android272_d96gjfs-pre_162
+  - first:
+      213: -9164622427720005066
+    second: teeworlds_flag_by_android272_d96gjfs-pre_163
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7379ae7a07cda0800000000000000
+      internalID: -5924755245657522997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afcc3ffd9bcc3c0800000000000000
+      internalID: -4337887969545487810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4647eb8111ac042a0800000000000000
+      internalID: -6755177266277354396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d2e188cda22ef0800000000000000
+      internalID: -134353962183502304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06297666772e2bd10800000000000000
+      internalID: 2140021775401456224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffb0c67e928ccce0800000000000000
+      internalID: -1383587368400797706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095f0f1596dc4b10800000000000000
+      internalID: 1967183073213634816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 317
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b044d90f0e6480800000000000000
+      internalID: -8904162878374759441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0759db916a63a02d0800000000000000
+      internalID: -3311774488953252496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b824af4140f1a6490800000000000000
+      internalID: -7752349706172611957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99a7dfe060777c0800000000000000
+      internalID: -4073780676481345044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7a03675a82b460800000000000000
+      internalID: 7256014057575710235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c5cd0fb41eb470800000000000000
+      internalID: 8412183964777038710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24b421834fd9b80800000000000000
+      internalID: -8386278409431727453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5e429366657360800000000000000
+      internalID: 7166746959872417489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272_d96gjfs-pre_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2
+        width: 155
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b7b1e7c46c1fb0800000000000000
+      internalID: -4675751503469234570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
